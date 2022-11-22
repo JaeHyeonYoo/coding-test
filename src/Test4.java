@@ -12,6 +12,7 @@ public class Test4 {
 //24	27	      52
 class Solution4 {
     public int solution(int left, int right) {
+        
         int answer = 0;
         int sum = 0;
 
