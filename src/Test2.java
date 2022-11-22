@@ -22,6 +22,7 @@ class Solution2 {
 
         int answer = 0;
         ArrayList<Integer> list = new ArrayList<>();
+        
         for (int i = 0; i <= numbers.length - 1; i++) {
             list.add(numbers[i]);
         }
