@@ -3,8 +3,7 @@ public class Test5 {
         Solution5 solution = new Solution5();
         int[] absolute = {1,2,3};
         boolean[] sign = {false,false,true};
-        solution.solution(absolute,sign);
-
+        System.out.println(solution.solution(absolute,sign));
     }
 }
 //어떤 정수들이 있습니다. 이 정수들의 절댓값을 차례대로 담은 정수 배열 absolutes와
