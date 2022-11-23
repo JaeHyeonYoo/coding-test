@@ -14,7 +14,6 @@ public class Test5 {
 //absolutes	signs	            result
 //[4,7,12]	[true,false,true]	9
 //[1,2,3]	[false,false,true]	0
-
 class Solution5 {
     public int solution(int[] absolutes, boolean[] signs) {
         int answer = 0;
